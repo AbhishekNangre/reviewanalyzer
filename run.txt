@@ -1,11 +1,3 @@
-pip install "numpy<2"
-pip install nltk scikit-learn spacy
-
-
-run - Python app.py 
-
-run - Python run.py 
-
 
 
 # Sample reviews 
