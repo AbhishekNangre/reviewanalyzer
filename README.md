@@ -75,16 +75,17 @@ cd reviewanalyzer
 
 
 2. Set Up a Virtual Environment (Recommended)
-Bash
 
+```
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
 3. Install Dependencies
 This project requires several packages. You can install them all using pip.
 
-Bash
-
+```
 pip install streamlit tensorflow pandas scikit-learn spacy nltk
+```
 4. Download NLP Model Data
 You only need to do this once. Run Python in your terminal and execute the following commands to download the necessary spaCy and NLTK models.
 
