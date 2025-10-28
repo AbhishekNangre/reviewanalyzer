@@ -23,4 +23,4 @@ run - Python run.py
 "Love this shirt! The fabric is super soft and it fits perfectly. I got so many compliments the first time I wore it. Will be buying it in another color for sure."
 
 ## 5. Detailed Negative Service Review
-"Ordered dinner through their app and it was a terrible experience. The delivery was 45 minutes late, and the food arrived cold and soggy. The packaging was damaged, and one of the items was completely wrong. When I called to complain, the support agent was rude and offered no solution. I will not be ordering from here again."
+"Ordered dinner through their app and it was a terrible experience. The delivery was 45 minutes late, and the food arrived cold and soggy. The packaging was damaged, and one of the items was completely wrong. When I called to complain, the support agent was rude and offered no solution. I will not be ordering from here again."                       
